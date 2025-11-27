@@ -47,7 +47,8 @@ nav {
   li {
     display: inline-block;
     position: relative;
-    margin-right: 2rem;
+    width: 10rem;
+    z-index: 100;
   }
   a {
     text-decoration: none;
